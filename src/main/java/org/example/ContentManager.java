@@ -7,10 +7,9 @@ public class ContentManager {
 
     List<StringBuilder> buffer = new ArrayList<>();
 
-    boolean handleChar(int cursorX, int cursorY, char c) {
+    void handleChar(int cursorX, int cursorY, char c) {
         StringBuilder sb = buffer.get(cursorX);
         sb.append(c);
-        return true;
     }
 
     void deleteChar(int cursorX, int cursorY) {

@@ -4,9 +4,8 @@ import org.example.clib.CLib;
 import org.example.clib.WinSize;
 
 import java.io.IOException;
-import java.util.Arrays;
 import java.util.List;
-import java.util.Map;
+import java.util.stream.Collectors;
 
 import static org.example.FontConstants.*;
 import static org.example.KeyConstants.*;
@@ -16,19 +15,19 @@ public class SimpleTextEditor {
 
     // === Constants ===
     private static final String CRLF = "\r\n";
-    private static final int FOOTER_SIZE = 0;
-    private static final int HEADER_SIZE = 0;
+    private static final int FOOTER_SIZE = 1;
+    private static final int HEADER_SIZE = 1;
 
     private static final String TITLE = BG_CYAN + FG_WHITE + "Writty Editor V1\033[K" + RESET;
 
     private static final String FOOTER = BG_LIGHT_BLUE + FG_WHITE + "\tType your text below. Press Ctrl+Q to quit." + RESET;
 
     // --- New fields for scrolling region ---
-    private int scrollTop;
-    private int scrollBottom;
+    private int xOffsetTop;
+    private int xOffsetBottom;
 
-    private int scrollLeft;
-    private int scrollRight;
+    private int yOffsetLeft;
+    private int yOffsetRight;
 
 
     private int cursorX = 0;
@@ -55,7 +54,7 @@ public class SimpleTextEditor {
             clearViewport();
             windowSize = fetchWindowSize();
             setScrollingRegion();
-
+            drawLine(false);
             eventLoop();
         } catch (Exception e) {
             exitEditor();
@@ -99,11 +98,25 @@ public class SimpleTextEditor {
 
     private void drawLine(boolean fullReDraw) {
         StringBuilder sb = new StringBuilder();
+
         sb.append("\033[H\033[2J");
+
+        sb.append(printHeaderAndFooter());
+
+        sb.append(String.format("\033[%d;%dH", 1 + xOffsetTop, 1 + yOffsetLeft));
+
         List<StringBuilder> buffer = contentManager.getBuffer();
-        buffer.forEach(stringBuilder -> sb.append(stringBuilder).append(CRLF));
-        sb.append(String.format("\033[%d;%dH", cursorX + 1, cursorY + 1));
+        List<StringBuilder> lastN = buffer.subList(Math.max(buffer.size() - (windowSize.ws_row - (xOffsetBottom + xOffsetTop) ), 0), buffer.size());
+
+        String result = lastN.stream().map(StringBuilder::toString).collect(Collectors.joining(CRLF));
+
+        sb.append(result);
+
+        sb.append(String.format("\033[%d;%dH", Math.min(windowSize.ws_row - xOffsetBottom, (cursorX + 1) + xOffsetTop), (cursorY + 1) + yOffsetLeft));
+
         System.out.print(sb);
+        Logger.log(sb.toString());
+
     }
 
     // === Editor Actions ===
@@ -117,7 +130,7 @@ public class SimpleTextEditor {
                 }
             }
             case CUSTOM_ARROW_DOWN -> {
-                if (cursorX < scrollBottom && cursorX < contentManager.getRowCount() - 1) {
+                if (cursorX < xOffsetBottom && cursorX < contentManager.getRowCount() - 1) {
                     cursorX++;
                     cursorY = contentManager.getYPos(cursorX);
                     //CursorControlsUtil.moveCursorDownBy(1);
@@ -130,7 +143,7 @@ public class SimpleTextEditor {
                 }
             }
             case CUSTOM_ARROW_RIGHT -> {
-                if (cursorY < scrollRight && cursorY < contentManager.getYPos(cursorX)) {
+                if (cursorY < yOffsetRight && cursorY < contentManager.getYPos(cursorX)) {
                     cursorY++;
                     //CursorControlsUtil.moveCursorRightBy(1);
                 }
@@ -138,7 +151,7 @@ public class SimpleTextEditor {
         }
     }
 
-    private boolean handleBackspace() {
+    private void handleBackspace() {
         if (cursorY > 0) {
             cursorY--;
             contentManager.deleteChar(cursorX, cursorY);
@@ -151,7 +164,6 @@ public class SimpleTextEditor {
             }
         }
 
-        return true;
     }
 
     private void handleEnter() {
@@ -161,22 +173,38 @@ public class SimpleTextEditor {
     }
 
     private void handleCharacterInput(char c) {
-        if (contentManager.handleChar(cursorX, cursorY, c)) {
-            cursorY++;
-        }
+        contentManager.handleChar(cursorX, cursorY, c);
+        cursorY++;
+    }
+
+    private static final String ESC = "\033["; // Escape
+
+    public String printHeaderAndFooter() {
+        // Colors: customize as needed
+
+        // --- HEADER ---
+
+        String sb = ESC + "\033[1;1H" +
+                TITLE +
+
+                // --- FOOTER ---
+                String.format("\033[%d;1H", windowSize.ws_row) +
+                FOOTER;
+        return sb;
     }
 
 
     // === Terminal Management ===
     private void setScrollingRegion() {
-        scrollTop = HEADER_SIZE + 1;
-        scrollBottom = windowSize.ws_row - (FOOTER_SIZE + 1);
+        Logger.log(String.format("windowSize.ws_row: %d", windowSize.ws_row));
+        xOffsetTop = HEADER_SIZE;
+        xOffsetBottom = FOOTER_SIZE;
 
-        scrollLeft = 1;
-        scrollRight = windowSize.ws_col;
+        yOffsetLeft = 0;
+        yOffsetRight = 0;
 
-        System.out.printf("\033[%d;%dr", scrollTop, scrollBottom);
-        System.out.printf("\033[%d;%dc", scrollLeft, scrollRight);
+        System.out.printf("\033[%d;%dr", 1, windowSize.ws_row);
+        System.out.printf("\033[%d;%dc", 1, windowSize.ws_col);
         System.out.flush();
         System.out.print("\033[?6h");
         contentManager.handleNewLine(cursorX);
@@ -199,7 +227,7 @@ public class SimpleTextEditor {
     }
 
     private void resetCursor() {
-        System.out.printf("\033[%d;%dH", cursorX + 1, cursorY + 1);
+        System.out.printf("\033[%d;%dH", cursorX + xOffsetTop, cursorY + yOffsetLeft);
     }
 
     private void enableRawMode() throws IOException {

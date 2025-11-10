@@ -1,4 +1,9660 @@
-dletingsa
-dletings
-dletingha
-dletingh
+screen size to: 23;80
+Print 1 lines
+Moving physical cursor to 1:1
+Moving virtual cursor to 0:0
+screen size to: 23;80
+Print 1 lines
+Moving physical cursor to 1:2
+Moving virtual cursor to 0:1
+Print 1 lines
+Moving physical cursor to 1:3
+Moving virtual cursor to 0:2
+Print 1 lines
+Moving physical cursor to 1:4
+Moving virtual cursor to 0:3
+Print 1 lines
+Moving physical cursor to 1:5
+Moving virtual cursor to 0:4
+Print 1 lines
+Moving physical cursor to 1:6
+Moving virtual cursor to 0:5
+Print 1 lines
+Moving physical cursor to 1:7
+Moving virtual cursor to 0:6
+Print 2 lines
+Moving physical cursor to 2:1
+Moving virtual cursor to 1:0
+Print 2 lines
+Moving physical cursor to 2:2
+Moving virtual cursor to 1:1
+Print 3 lines
+Moving physical cursor to 3:1
+Moving virtual cursor to 2:0
+Print 3 lines
+Moving physical cursor to 3:2
+Moving virtual cursor to 2:1
+Print 4 lines
+Moving physical cursor to 4:1
+Moving virtual cursor to 3:0
+Print 4 lines
+Moving physical cursor to 4:2
+Moving virtual cursor to 3:1
+Print 5 lines
+Moving physical cursor to 5:1
+Moving virtual cursor to 4:0
+Print 5 lines
+Moving physical cursor to 5:2
+Moving virtual cursor to 4:1
+Print 6 lines
+Moving physical cursor to 6:1
+Moving virtual cursor to 5:0
+Print 6 lines
+Moving physical cursor to 6:2
+Moving virtual cursor to 5:1
+Print 7 lines
+Moving physical cursor to 7:1
+Moving virtual cursor to 6:0
+Print 7 lines
+Moving physical cursor to 7:2
+Moving virtual cursor to 6:1
+Print 8 lines
+Moving physical cursor to 8:1
+Moving virtual cursor to 7:0
+Print 8 lines
+Moving physical cursor to 8:2
+Moving virtual cursor to 7:1
+Print 9 lines
+Moving physical cursor to 9:1
+Moving virtual cursor to 8:0
+Print 9 lines
+Moving physical cursor to 9:2
+Moving virtual cursor to 8:1
+Print 10 lines
+Moving physical cursor to 10:1
+Moving virtual cursor to 9:0
+Print 10 lines
+Moving physical cursor to 10:2
+Moving virtual cursor to 9:1
+Print 11 lines
+Moving physical cursor to 11:1
+Moving virtual cursor to 10:0
+Print 11 lines
+Moving physical cursor to 11:2
+Moving virtual cursor to 10:1
+Print 12 lines
+Moving physical cursor to 12:1
+Moving virtual cursor to 11:0
+Print 12 lines
+Moving physical cursor to 12:2
+Moving virtual cursor to 11:1
+Print 13 lines
+Moving physical cursor to 13:1
+Moving virtual cursor to 12:0
+Print 13 lines
+Moving physical cursor to 13:2
+Moving virtual cursor to 12:1
+Print 14 lines
+Moving physical cursor to 14:1
+Moving virtual cursor to 13:0
+Print 14 lines
+Moving physical cursor to 14:2
+Moving virtual cursor to 13:1
+Print 15 lines
+Moving physical cursor to 15:1
+Moving virtual cursor to 14:0
+Print 15 lines
+Moving physical cursor to 15:2
+Moving virtual cursor to 14:1
+Print 16 lines
+Moving physical cursor to 16:1
+Moving virtual cursor to 15:0
+Print 16 lines
+Moving physical cursor to 16:2
+Moving virtual cursor to 15:1
+Print 17 lines
+Moving physical cursor to 17:1
+Moving virtual cursor to 16:0
+Print 17 lines
+Moving physical cursor to 17:2
+Moving virtual cursor to 16:1
+Print 18 lines
+Moving physical cursor to 18:1
+Moving virtual cursor to 17:0
+Print 18 lines
+Moving physical cursor to 18:2
+Moving virtual cursor to 17:1
+Print 19 lines
+Moving physical cursor to 19:1
+Moving virtual cursor to 18:0
+Print 19 lines
+Moving physical cursor to 19:2
+Moving virtual cursor to 18:1
+Print 20 lines
+Moving physical cursor to 20:1
+Moving virtual cursor to 19:0
+Print 20 lines
+Moving physical cursor to 20:2
+Moving virtual cursor to 19:1
+Print 21 lines
+Moving physical cursor to 21:1
+Moving virtual cursor to 20:0
+Print 21 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 22 lines
+Moving physical cursor to 22:1
+Moving virtual cursor to 21:0
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+screen size to: 23;80
+Print 1 lines
+Moving physical cursor to 1:2
+Moving virtual cursor to 0:1
+Print 1 lines
+Moving physical cursor to 1:3
+Moving virtual cursor to 0:2
+Print 1 lines
+Moving physical cursor to 1:4
+Moving virtual cursor to 0:3
+Print 1 lines
+Moving physical cursor to 1:5
+Moving virtual cursor to 0:4
+Print 2 lines
+Moving physical cursor to 2:1
+Moving virtual cursor to 1:0
+Print 2 lines
+Moving physical cursor to 2:2
+Moving virtual cursor to 1:1
+Print 3 lines
+Moving physical cursor to 3:1
+Moving virtual cursor to 2:0
+Print 3 lines
+Moving physical cursor to 3:2
+Moving virtual cursor to 2:1
+Print 4 lines
+Moving physical cursor to 4:1
+Moving virtual cursor to 3:0
+Print 4 lines
+Moving physical cursor to 4:2
+Moving virtual cursor to 3:1
+Print 5 lines
+Moving physical cursor to 5:1
+Moving virtual cursor to 4:0
+Print 5 lines
+Moving physical cursor to 5:2
+Moving virtual cursor to 4:1
+Print 6 lines
+Moving physical cursor to 6:1
+Moving virtual cursor to 5:0
+Print 6 lines
+Moving physical cursor to 6:2
+Moving virtual cursor to 5:1
+Print 7 lines
+Moving physical cursor to 7:1
+Moving virtual cursor to 6:0
+Print 7 lines
+Moving physical cursor to 7:2
+Moving virtual cursor to 6:1
+Print 8 lines
+Moving physical cursor to 8:1
+Moving virtual cursor to 7:0
+Print 8 lines
+Moving physical cursor to 8:2
+Moving virtual cursor to 7:1
+Print 9 lines
+Moving physical cursor to 9:1
+Moving virtual cursor to 8:0
+Print 9 lines
+Moving physical cursor to 9:2
+Moving virtual cursor to 8:1
+Print 10 lines
+Moving physical cursor to 10:1
+Moving virtual cursor to 9:0
+Print 10 lines
+Moving physical cursor to 10:2
+Moving virtual cursor to 9:1
+Print 11 lines
+Moving physical cursor to 11:1
+Moving virtual cursor to 10:0
+Print 11 lines
+Moving physical cursor to 11:2
+Moving virtual cursor to 10:1
+Print 12 lines
+Moving physical cursor to 12:1
+Moving virtual cursor to 11:0
+Print 12 lines
+Moving physical cursor to 12:2
+Moving virtual cursor to 11:1
+Print 13 lines
+Moving physical cursor to 13:1
+Moving virtual cursor to 12:0
+Print 13 lines
+Moving physical cursor to 13:2
+Moving virtual cursor to 12:1
+Print 14 lines
+Moving physical cursor to 14:1
+Moving virtual cursor to 13:0
+Print 14 lines
+Moving physical cursor to 14:2
+Moving virtual cursor to 13:1
+Print 15 lines
+Moving physical cursor to 15:1
+Moving virtual cursor to 14:0
+Print 15 lines
+Moving physical cursor to 15:2
+Moving virtual cursor to 14:1
+Print 16 lines
+Moving physical cursor to 16:1
+Moving virtual cursor to 15:0
+Print 16 lines
+Moving physical cursor to 16:2
+Moving virtual cursor to 15:1
+Print 17 lines
+Moving physical cursor to 17:1
+Moving virtual cursor to 16:0
+Print 17 lines
+Moving physical cursor to 17:2
+Moving virtual cursor to 16:1
+Print 18 lines
+Moving physical cursor to 18:1
+Moving virtual cursor to 17:0
+Print 18 lines
+Moving physical cursor to 18:2
+Moving virtual cursor to 17:1
+Print 19 lines
+Moving physical cursor to 19:1
+Moving virtual cursor to 18:0
+Print 19 lines
+Moving physical cursor to 19:2
+Moving virtual cursor to 18:1
+Print 20 lines
+Moving physical cursor to 20:1
+Moving virtual cursor to 19:0
+Print 20 lines
+Moving physical cursor to 20:2
+Moving virtual cursor to 19:1
+Print 21 lines
+Moving physical cursor to 21:1
+Moving virtual cursor to 20:0
+Print 21 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 22 lines
+Moving physical cursor to 22:1
+Moving virtual cursor to 21:0
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 22:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 23:0
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 24:0
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 24:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 25:0
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 25:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 26:0
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 26:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 27:0
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 27:1
+Print 22 lines
+Moving physical cursor to 23:3
+Moving virtual cursor to 27:2
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 28:0
+Print 22 lines
+Moving physical cursor to 23:3
+Moving virtual cursor to 27:2
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 27:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 27:0
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 26:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 26:0
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 25:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 25:0
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 24:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 24:0
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 23:0
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 22:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 22 lines
+Moving physical cursor to 22:1
+Moving virtual cursor to 21:0
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 22 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 22 lines
+Moving physical cursor to 20:2
+Moving virtual cursor to 19:1
+Print 22 lines
+Moving physical cursor to 19:2
+Moving virtual cursor to 18:1
+Print 22 lines
+Moving physical cursor to 18:2
+Moving virtual cursor to 17:1
+Print 22 lines
+Moving physical cursor to 17:2
+Moving virtual cursor to 16:1
+Print 22 lines
+Moving physical cursor to 16:2
+Moving virtual cursor to 15:1
+Print 22 lines
+Moving physical cursor to 15:2
+Moving virtual cursor to 14:1
+Print 22 lines
+Moving physical cursor to 14:2
+Moving virtual cursor to 13:1
+Print 22 lines
+Moving physical cursor to 13:2
+Moving virtual cursor to 12:1
+Print 22 lines
+Moving physical cursor to 12:2
+Moving virtual cursor to 11:1
+Print 22 lines
+Moving physical cursor to 11:2
+Moving virtual cursor to 10:1
+Print 22 lines
+Moving physical cursor to 10:2
+Moving virtual cursor to 9:1
+Print 22 lines
+Moving physical cursor to 9:2
+Moving virtual cursor to 8:1
+Print 22 lines
+Moving physical cursor to 8:2
+Moving virtual cursor to 7:1
+Print 22 lines
+Moving physical cursor to 7:2
+Moving virtual cursor to 6:1
+Print 22 lines
+Moving physical cursor to 6:2
+Moving virtual cursor to 5:1
+Print 22 lines
+Moving physical cursor to 5:2
+Moving virtual cursor to 4:1
+Print 22 lines
+Moving physical cursor to 4:2
+Moving virtual cursor to 3:1
+Print 22 lines
+Moving physical cursor to 3:2
+Moving virtual cursor to 2:1
+Print 22 lines
+Moving physical cursor to 2:2
+Moving virtual cursor to 1:1
+Print 22 lines
+Moving physical cursor to 1:5
+Moving virtual cursor to 0:4
+Print 22 lines
+Moving physical cursor to 2:2
+Moving virtual cursor to 1:1
+Print 22 lines
+Moving physical cursor to 3:2
+Moving virtual cursor to 2:1
+Print 22 lines
+Moving physical cursor to 4:2
+Moving virtual cursor to 3:1
+Print 22 lines
+Moving physical cursor to 5:2
+Moving virtual cursor to 4:1
+Print 22 lines
+Moving physical cursor to 6:2
+Moving virtual cursor to 5:1
+Print 22 lines
+Moving physical cursor to 7:2
+Moving virtual cursor to 6:1
+Print 22 lines
+Moving physical cursor to 8:2
+Moving virtual cursor to 7:1
+Print 22 lines
+Moving physical cursor to 9:2
+Moving virtual cursor to 8:1
+Print 22 lines
+Moving physical cursor to 10:2
+Moving virtual cursor to 9:1
+Print 22 lines
+Moving physical cursor to 11:2
+Moving virtual cursor to 10:1
+Print 22 lines
+Moving physical cursor to 12:2
+Moving virtual cursor to 11:1
+Print 22 lines
+Moving physical cursor to 13:2
+Moving virtual cursor to 12:1
+Print 22 lines
+Moving physical cursor to 14:2
+Moving virtual cursor to 13:1
+Print 22 lines
+Moving physical cursor to 15:2
+Moving virtual cursor to 14:1
+Print 22 lines
+Moving physical cursor to 16:2
+Moving virtual cursor to 15:1
+Print 22 lines
+Moving physical cursor to 17:2
+Moving virtual cursor to 16:1
+Print 22 lines
+Moving physical cursor to 18:2
+Moving virtual cursor to 17:1
+Print 22 lines
+Moving physical cursor to 19:2
+Moving virtual cursor to 18:1
+Print 22 lines
+Moving physical cursor to 20:2
+Moving virtual cursor to 19:1
+Print 22 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 22:1
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 22:1
+screen size to: 23;80
+Print 1 lines
+Moving physical cursor to 1:2
+Moving virtual cursor to 0:1
+Print 1 lines
+Moving physical cursor to 1:3
+Moving virtual cursor to 0:2
+Print 1 lines
+Moving physical cursor to 1:4
+Moving virtual cursor to 0:3
+Print 2 lines
+Moving physical cursor to 2:1
+Moving virtual cursor to 1:0
+Print 2 lines
+Moving physical cursor to 2:2
+Moving virtual cursor to 1:1
+Print 3 lines
+Moving physical cursor to 3:1
+Moving virtual cursor to 2:0
+Print 3 lines
+Moving physical cursor to 3:2
+Moving virtual cursor to 2:1
+Print 4 lines
+Moving physical cursor to 4:1
+Moving virtual cursor to 3:0
+Print 4 lines
+Moving physical cursor to 4:2
+Moving virtual cursor to 3:1
+Print 5 lines
+Moving physical cursor to 5:1
+Moving virtual cursor to 4:0
+Print 5 lines
+Moving physical cursor to 5:2
+Moving virtual cursor to 4:1
+Print 6 lines
+Moving physical cursor to 6:1
+Moving virtual cursor to 5:0
+Print 6 lines
+Moving physical cursor to 6:2
+Moving virtual cursor to 5:1
+Print 7 lines
+Moving physical cursor to 7:1
+Moving virtual cursor to 6:0
+Print 7 lines
+Moving physical cursor to 7:2
+Moving virtual cursor to 6:1
+Print 8 lines
+Moving physical cursor to 8:1
+Moving virtual cursor to 7:0
+Print 8 lines
+Moving physical cursor to 8:2
+Moving virtual cursor to 7:1
+Print 9 lines
+Moving physical cursor to 9:1
+Moving virtual cursor to 8:0
+Print 9 lines
+Moving physical cursor to 9:2
+Moving virtual cursor to 8:1
+Print 10 lines
+Moving physical cursor to 10:1
+Moving virtual cursor to 9:0
+Print 10 lines
+Moving physical cursor to 10:2
+Moving virtual cursor to 9:1
+Print 11 lines
+Moving physical cursor to 11:1
+Moving virtual cursor to 10:0
+Print 11 lines
+Moving physical cursor to 11:2
+Moving virtual cursor to 10:1
+Print 12 lines
+Moving physical cursor to 12:1
+Moving virtual cursor to 11:0
+Print 12 lines
+Moving physical cursor to 12:2
+Moving virtual cursor to 11:1
+Print 13 lines
+Moving physical cursor to 13:1
+Moving virtual cursor to 12:0
+Print 13 lines
+Moving physical cursor to 13:2
+Moving virtual cursor to 12:1
+Print 14 lines
+Moving physical cursor to 14:1
+Moving virtual cursor to 13:0
+Print 14 lines
+Moving physical cursor to 14:2
+Moving virtual cursor to 13:1
+Print 15 lines
+Moving physical cursor to 15:1
+Moving virtual cursor to 14:0
+Print 15 lines
+Moving physical cursor to 15:2
+Moving virtual cursor to 14:1
+Print 16 lines
+Moving physical cursor to 16:1
+Moving virtual cursor to 15:0
+Print 16 lines
+Moving physical cursor to 16:2
+Moving virtual cursor to 15:1
+Print 17 lines
+Moving physical cursor to 17:1
+Moving virtual cursor to 16:0
+Print 17 lines
+Moving physical cursor to 17:2
+Moving virtual cursor to 16:1
+Print 18 lines
+Moving physical cursor to 18:1
+Moving virtual cursor to 17:0
+Print 18 lines
+Moving physical cursor to 18:2
+Moving virtual cursor to 17:1
+Print 19 lines
+Moving physical cursor to 19:1
+Moving virtual cursor to 18:0
+Print 19 lines
+Moving physical cursor to 19:2
+Moving virtual cursor to 18:1
+Print 20 lines
+Moving physical cursor to 20:1
+Moving virtual cursor to 19:0
+Print 20 lines
+Moving physical cursor to 20:2
+Moving virtual cursor to 19:1
+Print 21 lines
+Moving physical cursor to 21:1
+Moving virtual cursor to 20:0
+Print 21 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 22 lines
+Moving physical cursor to 22:1
+Moving virtual cursor to 21:0
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 22 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+Print 22 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 22:1
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 22 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 22 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+screen size to: 23;80
+Print 1 lines
+Moving physical cursor to 1:2
+Moving virtual cursor to 0:1
+Print 2 lines
+Moving physical cursor to 2:1
+Moving virtual cursor to 1:0
+Print 2 lines
+Moving physical cursor to 2:2
+Moving virtual cursor to 1:1
+Print 3 lines
+Moving physical cursor to 3:1
+Moving virtual cursor to 2:0
+Print 3 lines
+Moving physical cursor to 3:2
+Moving virtual cursor to 2:1
+Print 4 lines
+Moving physical cursor to 4:1
+Moving virtual cursor to 3:0
+Print 4 lines
+Moving physical cursor to 4:2
+Moving virtual cursor to 3:1
+Print 5 lines
+Moving physical cursor to 5:1
+Moving virtual cursor to 4:0
+Print 5 lines
+Moving physical cursor to 5:2
+Moving virtual cursor to 4:1
+Print 6 lines
+Moving physical cursor to 6:1
+Moving virtual cursor to 5:0
+Print 6 lines
+Moving physical cursor to 6:2
+Moving virtual cursor to 5:1
+Print 7 lines
+Moving physical cursor to 7:1
+Moving virtual cursor to 6:0
+Print 7 lines
+Moving physical cursor to 7:2
+Moving virtual cursor to 6:1
+Print 8 lines
+Moving physical cursor to 8:1
+Moving virtual cursor to 7:0
+Print 8 lines
+Moving physical cursor to 8:2
+Moving virtual cursor to 7:1
+Print 9 lines
+Moving physical cursor to 9:1
+Moving virtual cursor to 8:0
+Print 9 lines
+Moving physical cursor to 9:2
+Moving virtual cursor to 8:1
+Print 10 lines
+Moving physical cursor to 10:1
+Moving virtual cursor to 9:0
+Print 10 lines
+Moving physical cursor to 10:2
+Moving virtual cursor to 9:1
+Print 11 lines
+Moving physical cursor to 11:1
+Moving virtual cursor to 10:0
+Print 11 lines
+Moving physical cursor to 11:2
+Moving virtual cursor to 10:1
+Print 12 lines
+Moving physical cursor to 12:1
+Moving virtual cursor to 11:0
+Print 12 lines
+Moving physical cursor to 12:2
+Moving virtual cursor to 11:1
+Print 13 lines
+Moving physical cursor to 13:1
+Moving virtual cursor to 12:0
+Print 13 lines
+Moving physical cursor to 13:2
+Moving virtual cursor to 12:1
+Print 14 lines
+Moving physical cursor to 14:1
+Moving virtual cursor to 13:0
+Print 14 lines
+Moving physical cursor to 14:2
+Moving virtual cursor to 13:1
+Print 15 lines
+Moving physical cursor to 15:1
+Moving virtual cursor to 14:0
+Print 15 lines
+Moving physical cursor to 15:2
+Moving virtual cursor to 14:1
+Print 16 lines
+Moving physical cursor to 16:1
+Moving virtual cursor to 15:0
+Print 16 lines
+Moving physical cursor to 16:2
+Moving virtual cursor to 15:1
+Print 17 lines
+Moving physical cursor to 17:1
+Moving virtual cursor to 16:0
+Print 17 lines
+Moving physical cursor to 17:2
+Moving virtual cursor to 16:1
+Print 18 lines
+Moving physical cursor to 18:1
+Moving virtual cursor to 17:0
+Print 18 lines
+Moving physical cursor to 18:2
+Moving virtual cursor to 17:1
+Print 19 lines
+Moving physical cursor to 19:1
+Moving virtual cursor to 18:0
+Print 19 lines
+Moving physical cursor to 19:2
+Moving virtual cursor to 18:1
+Print 20 lines
+Moving physical cursor to 20:1
+Moving virtual cursor to 19:0
+Print 20 lines
+Moving physical cursor to 20:2
+Moving virtual cursor to 19:1
+Print 21 lines
+Moving physical cursor to 21:1
+Moving virtual cursor to 20:0
+Print 21 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 22 lines
+Moving physical cursor to 22:1
+Moving virtual cursor to 21:0
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 22:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 23:0
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 23:0
+screen size to: 23;80
+Print 1 lines
+Moving physical cursor to 1:2
+Moving virtual cursor to 0:1
+Print 1 lines
+Moving physical cursor to 1:3
+Moving virtual cursor to 0:2
+Print 1 lines
+Moving physical cursor to 1:4
+Moving virtual cursor to 0:3
+Print 2 lines
+Moving physical cursor to 2:1
+Moving virtual cursor to 1:0
+Print 2 lines
+Moving physical cursor to 2:2
+Moving virtual cursor to 1:1
+Print 3 lines
+Moving physical cursor to 3:1
+Moving virtual cursor to 2:0
+Print 3 lines
+Moving physical cursor to 3:2
+Moving virtual cursor to 2:1
+Print 4 lines
+Moving physical cursor to 4:1
+Moving virtual cursor to 3:0
+Print 4 lines
+Moving physical cursor to 4:2
+Moving virtual cursor to 3:1
+Print 5 lines
+Moving physical cursor to 5:1
+Moving virtual cursor to 4:0
+Print 5 lines
+Moving physical cursor to 5:2
+Moving virtual cursor to 4:1
+Print 6 lines
+Moving physical cursor to 6:1
+Moving virtual cursor to 5:0
+Print 6 lines
+Moving physical cursor to 6:2
+Moving virtual cursor to 5:1
+Print 7 lines
+Moving physical cursor to 7:1
+Moving virtual cursor to 6:0
+Print 7 lines
+Moving physical cursor to 7:2
+Moving virtual cursor to 6:1
+Print 8 lines
+Moving physical cursor to 8:1
+Moving virtual cursor to 7:0
+Print 8 lines
+Moving physical cursor to 8:2
+Moving virtual cursor to 7:1
+Print 9 lines
+Moving physical cursor to 9:1
+Moving virtual cursor to 8:0
+Print 9 lines
+Moving physical cursor to 9:2
+Moving virtual cursor to 8:1
+Print 10 lines
+Moving physical cursor to 10:1
+Moving virtual cursor to 9:0
+Print 10 lines
+Moving physical cursor to 10:2
+Moving virtual cursor to 9:1
+Print 11 lines
+Moving physical cursor to 11:1
+Moving virtual cursor to 10:0
+Print 11 lines
+Moving physical cursor to 11:2
+Moving virtual cursor to 10:1
+Print 12 lines
+Moving physical cursor to 12:1
+Moving virtual cursor to 11:0
+Print 12 lines
+Moving physical cursor to 12:2
+Moving virtual cursor to 11:1
+Print 13 lines
+Moving physical cursor to 13:1
+Moving virtual cursor to 12:0
+Print 13 lines
+Moving physical cursor to 13:2
+Moving virtual cursor to 12:1
+Print 14 lines
+Moving physical cursor to 14:1
+Moving virtual cursor to 13:0
+Print 14 lines
+Moving physical cursor to 14:2
+Moving virtual cursor to 13:1
+Print 15 lines
+Moving physical cursor to 15:1
+Moving virtual cursor to 14:0
+Print 15 lines
+Moving physical cursor to 15:2
+Moving virtual cursor to 14:1
+Print 16 lines
+Moving physical cursor to 16:1
+Moving virtual cursor to 15:0
+Print 16 lines
+Moving physical cursor to 16:2
+Moving virtual cursor to 15:1
+Print 17 lines
+Moving physical cursor to 17:1
+Moving virtual cursor to 16:0
+Print 17 lines
+Moving physical cursor to 17:2
+Moving virtual cursor to 16:1
+Print 18 lines
+Moving physical cursor to 18:1
+Moving virtual cursor to 17:0
+Print 18 lines
+Moving physical cursor to 18:2
+Moving virtual cursor to 17:1
+Print 19 lines
+Moving physical cursor to 19:1
+Moving virtual cursor to 18:0
+Print 19 lines
+Moving physical cursor to 19:2
+Moving virtual cursor to 18:1
+Print 20 lines
+Moving physical cursor to 20:1
+Moving virtual cursor to 19:0
+Print 20 lines
+Moving physical cursor to 20:2
+Moving virtual cursor to 19:1
+Print 21 lines
+Moving physical cursor to 21:1
+Moving virtual cursor to 20:0
+Print 21 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 22 lines
+Moving physical cursor to 22:1
+Moving virtual cursor to 21:0
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 22:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 23:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 24:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 24:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 25:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 25:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 26:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 26:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 27:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 26:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 26:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 25:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 24:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 23:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+screen size to: 23;80
+Print 1 lines
+Moving physical cursor to 1:2
+Moving virtual cursor to 0:1
+Print 2 lines
+Moving physical cursor to 2:1
+Moving virtual cursor to 1:0
+Print 1 lines
+Moving physical cursor to 1:2
+Moving virtual cursor to 0:1
+Print 1 lines
+Moving physical cursor to 1:1
+Moving virtual cursor to 0:0
+Print 1 lines
+Moving physical cursor to 1:2
+Moving virtual cursor to 0:1
+Print 1 lines
+Moving physical cursor to 1:3
+Moving virtual cursor to 0:2
+Print 1 lines
+Moving physical cursor to 1:4
+Moving virtual cursor to 0:3
+Print 1 lines
+Moving physical cursor to 1:5
+Moving virtual cursor to 0:4
+Print 1 lines
+Moving physical cursor to 1:6
+Moving virtual cursor to 0:5
+Print 1 lines
+Moving physical cursor to 1:7
+Moving virtual cursor to 0:6
+Print 1 lines
+Moving physical cursor to 1:8
+Moving virtual cursor to 0:7
+Print 1 lines
+Moving physical cursor to 1:9
+Moving virtual cursor to 0:8
+Print 1 lines
+Moving physical cursor to 1:10
+Moving virtual cursor to 0:9
+Print 2 lines
+Moving physical cursor to 2:1
+Moving virtual cursor to 1:0
+Print 2 lines
+Moving physical cursor to 2:2
+Moving virtual cursor to 1:1
+Print 3 lines
+Moving physical cursor to 3:1
+Moving virtual cursor to 2:0
+Print 3 lines
+Moving physical cursor to 3:2
+Moving virtual cursor to 2:1
+Print 4 lines
+Moving physical cursor to 4:1
+Moving virtual cursor to 3:0
+Print 4 lines
+Moving physical cursor to 4:2
+Moving virtual cursor to 3:1
+Print 5 lines
+Moving physical cursor to 5:1
+Moving virtual cursor to 4:0
+Print 5 lines
+Moving physical cursor to 5:2
+Moving virtual cursor to 4:1
+Print 6 lines
+Moving physical cursor to 6:1
+Moving virtual cursor to 5:0
+Print 6 lines
+Moving physical cursor to 6:2
+Moving virtual cursor to 5:1
+Print 7 lines
+Moving physical cursor to 7:1
+Moving virtual cursor to 6:0
+Print 7 lines
+Moving physical cursor to 7:2
+Moving virtual cursor to 6:1
+Print 8 lines
+Moving physical cursor to 8:1
+Moving virtual cursor to 7:0
+Print 8 lines
+Moving physical cursor to 8:2
+Moving virtual cursor to 7:1
+Print 9 lines
+Moving physical cursor to 9:1
+Moving virtual cursor to 8:0
+Print 9 lines
+Moving physical cursor to 9:2
+Moving virtual cursor to 8:1
+Print 10 lines
+Moving physical cursor to 10:1
+Moving virtual cursor to 9:0
+Print 10 lines
+Moving physical cursor to 10:2
+Moving virtual cursor to 9:1
+Print 11 lines
+Moving physical cursor to 11:1
+Moving virtual cursor to 10:0
+Print 11 lines
+Moving physical cursor to 11:2
+Moving virtual cursor to 10:1
+Print 12 lines
+Moving physical cursor to 12:1
+Moving virtual cursor to 11:0
+Print 12 lines
+Moving physical cursor to 12:2
+Moving virtual cursor to 11:1
+Print 13 lines
+Moving physical cursor to 13:1
+Moving virtual cursor to 12:0
+Print 13 lines
+Moving physical cursor to 13:2
+Moving virtual cursor to 12:1
+Print 14 lines
+Moving physical cursor to 14:1
+Moving virtual cursor to 13:0
+Print 14 lines
+Moving physical cursor to 14:2
+Moving virtual cursor to 13:1
+Print 15 lines
+Moving physical cursor to 15:1
+Moving virtual cursor to 14:0
+Print 15 lines
+Moving physical cursor to 15:2
+Moving virtual cursor to 14:1
+Print 16 lines
+Moving physical cursor to 16:1
+Moving virtual cursor to 15:0
+Print 16 lines
+Moving physical cursor to 16:2
+Moving virtual cursor to 15:1
+Print 17 lines
+Moving physical cursor to 17:1
+Moving virtual cursor to 16:0
+Print 17 lines
+Moving physical cursor to 17:2
+Moving virtual cursor to 16:1
+Print 18 lines
+Moving physical cursor to 18:1
+Moving virtual cursor to 17:0
+Print 18 lines
+Moving physical cursor to 18:2
+Moving virtual cursor to 17:1
+Print 19 lines
+Moving physical cursor to 19:1
+Moving virtual cursor to 18:0
+Print 19 lines
+Moving physical cursor to 19:2
+Moving virtual cursor to 18:1
+Print 20 lines
+Moving physical cursor to 20:1
+Moving virtual cursor to 19:0
+Print 20 lines
+Moving physical cursor to 20:2
+Moving virtual cursor to 19:1
+Print 21 lines
+Moving physical cursor to 21:1
+Moving virtual cursor to 20:0
+Print 21 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 22 lines
+Moving physical cursor to 22:1
+Moving virtual cursor to 21:0
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 22:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 23:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 24:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 24:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 25:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 25:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 26:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 25:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 25:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 24:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 22:1
+Print 23 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 22:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 23:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 22:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+Print 23 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 23 lines
+Moving physical cursor to 21:1
+Moving virtual cursor to 20:0
+Print 23 lines
+Moving physical cursor to 21:1
+Moving virtual cursor to 20:0
+Print 23 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 23 lines
+Moving physical cursor to 20:2
+Moving virtual cursor to 19:1
+Print 23 lines
+Moving physical cursor to 19:2
+Moving virtual cursor to 18:1
+Print 23 lines
+Moving physical cursor to 18:2
+Moving virtual cursor to 17:1
+Print 23 lines
+Moving physical cursor to 17:2
+Moving virtual cursor to 16:1
+Print 23 lines
+Moving physical cursor to 18:2
+Moving virtual cursor to 17:1
+Print 23 lines
+Moving physical cursor to 19:2
+Moving virtual cursor to 18:1
+Print 23 lines
+Moving physical cursor to 20:2
+Moving virtual cursor to 19:1
+Print 23 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 23 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 22:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 23:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 23:0
+Print 23 lines
+Moving physical cursor to 23:2
+Moving virtual cursor to 22:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+Print 23 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 22:1
+Moving virtual cursor to 21:0
+Print 23 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 23 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+screen size to: 23;80
+Print 1 lines
+Moving physical cursor to 1:1
+Moving virtual cursor to 0:0
+screen size to: 23;80
+Print 1 lines
+Moving physical cursor to 1:2
+Moving virtual cursor to 0:1
+Print 1 lines
+Moving physical cursor to 1:3
+Moving virtual cursor to 0:2
+Print 1 lines
+Moving physical cursor to 1:4
+Moving virtual cursor to 0:3
+Print 1 lines
+Moving physical cursor to 1:5
+Moving virtual cursor to 0:4
+Print 2 lines
+Moving physical cursor to 2:1
+Moving virtual cursor to 1:0
+Print 2 lines
+Moving physical cursor to 2:2
+Moving virtual cursor to 1:1
+Print 3 lines
+Moving physical cursor to 3:1
+Moving virtual cursor to 2:0
+Print 3 lines
+Moving physical cursor to 3:2
+Moving virtual cursor to 2:1
+Print 4 lines
+Moving physical cursor to 4:1
+Moving virtual cursor to 3:0
+Print 4 lines
+Moving physical cursor to 4:2
+Moving virtual cursor to 3:1
+Print 5 lines
+Moving physical cursor to 5:1
+Moving virtual cursor to 4:0
+Print 5 lines
+Moving physical cursor to 5:2
+Moving virtual cursor to 4:1
+Print 6 lines
+Moving physical cursor to 6:1
+Moving virtual cursor to 5:0
+Print 6 lines
+Moving physical cursor to 6:2
+Moving virtual cursor to 5:1
+Print 7 lines
+Moving physical cursor to 7:1
+Moving virtual cursor to 6:0
+Print 7 lines
+Moving physical cursor to 7:2
+Moving virtual cursor to 6:1
+Print 8 lines
+Moving physical cursor to 8:1
+Moving virtual cursor to 7:0
+Print 8 lines
+Moving physical cursor to 8:2
+Moving virtual cursor to 7:1
+Print 9 lines
+Moving physical cursor to 9:1
+Moving virtual cursor to 8:0
+Print 9 lines
+Moving physical cursor to 9:2
+Moving virtual cursor to 8:1
+Print 10 lines
+Moving physical cursor to 10:1
+Moving virtual cursor to 9:0
+Print 10 lines
+Moving physical cursor to 10:2
+Moving virtual cursor to 9:1
+Print 11 lines
+Moving physical cursor to 11:1
+Moving virtual cursor to 10:0
+Print 11 lines
+Moving physical cursor to 11:2
+Moving virtual cursor to 10:1
+Print 12 lines
+Moving physical cursor to 12:1
+Moving virtual cursor to 11:0
+Print 12 lines
+Moving physical cursor to 12:2
+Moving virtual cursor to 11:1
+Print 13 lines
+Moving physical cursor to 13:1
+Moving virtual cursor to 12:0
+Print 13 lines
+Moving physical cursor to 13:2
+Moving virtual cursor to 12:1
+Print 14 lines
+Moving physical cursor to 14:1
+Moving virtual cursor to 13:0
+Print 14 lines
+Moving physical cursor to 14:2
+Moving virtual cursor to 13:1
+Print 15 lines
+Moving physical cursor to 15:1
+Moving virtual cursor to 14:0
+Print 15 lines
+Moving physical cursor to 15:2
+Moving virtual cursor to 14:1
+Print 16 lines
+Moving physical cursor to 16:1
+Moving virtual cursor to 15:0
+Print 16 lines
+Moving physical cursor to 16:2
+Moving virtual cursor to 15:1
+Print 17 lines
+Moving physical cursor to 17:1
+Moving virtual cursor to 16:0
+Print 17 lines
+Moving physical cursor to 17:2
+Moving virtual cursor to 16:1
+Print 18 lines
+Moving physical cursor to 18:1
+Moving virtual cursor to 17:0
+Print 18 lines
+Moving physical cursor to 18:2
+Moving virtual cursor to 17:1
+Print 19 lines
+Moving physical cursor to 19:1
+Moving virtual cursor to 18:0
+Print 19 lines
+Moving physical cursor to 19:2
+Moving virtual cursor to 18:1
+Print 20 lines
+Moving physical cursor to 20:1
+Moving virtual cursor to 19:0
+Print 20 lines
+Moving physical cursor to 20:2
+Moving virtual cursor to 19:1
+Print 21 lines
+Moving physical cursor to 21:1
+Moving virtual cursor to 20:0
+Print 21 lines
+Moving physical cursor to 21:2
+Moving virtual cursor to 20:1
+Print 22 lines
+Moving physical cursor to 22:1
+Moving virtual cursor to 21:0
+Print 22 lines
+Moving physical cursor to 22:2
+Moving virtual cursor to 21:1
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+Print 23 lines
+Moving physical cursor to 23:1
+Moving virtual cursor to 22:0
+screen size to: 23;80
+screen size to: 23;80
+screen size to: 23;80
+screen size to: 23;80
+windowSize.ws_row: 24
+screen size to: 23;80
+windowSize.ws_row: 24
+screen size to: 24;80
+windowSize.ws_row: 24
+screen size to: 24;80
+windowSize.ws_row: 25
+screen size to: 25;80
+windowSize.ws_row: 25
+screen size to: 25;80
+windowSize.ws_row: 25
+screen size to: 25;80
+windowSize.ws_row: 25
+screen size to: 25;80
+windowSize.ws_row: 25
+screen size to: 25;80
+windowSize.ws_row: 25
+screen size to: 25;80
+windowSize.ws_row: 25
+screen size to: 25;80
+windowSize.ws_row: 25
+screen size to: 24;80
+windowSize.ws_row: 25
+screen size to: 24;80
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+screen size to: 24;80
+windowSize.ws_row: 25
+screen size to: 24;80
+windowSize.ws_row: 25
+screen size to: 24;80
+windowSize.ws_row: 25
+screen size to: 24;80
+windowSize.ws_row: 25
+screen size to: 24;80
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+screen size to: 25;80
+windowSize.ws_row: 25
+screen size to: 25;80
+windowSize.ws_row: 25
+screen size to: 25;80
+windowSize.ws_row: 25
+screen size to: 25;80
+windowSize.ws_row: 25
+screen size to: 25;80
+windowSize.ws_row: 25
+screen size to: 25;80
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+screen size to: 24;80
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+windowSize.ws_row: 25
+
+q
+qw
+qwe
+qwe
+windowSize.ws_row: 25
+
+
+windowSize.ws_row: 25
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;2Hq[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;2Hq[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;2Hq[2;2H
+windowSize.ws_row: 25
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+windowSize.ws_row: 25
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hq[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwe[2;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwer[2;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwert[2;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertt[2;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty[2;8H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+[3;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+q[3;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qw[3;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwd[3;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdq[3;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqw[3;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd[3;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+[4;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+q[4;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qw[4;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd[4;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+[5;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+q[5;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qw[5;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd[5;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+[6;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+q[6;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qw[6;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwd[6;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq[6;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+[7;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+w[7;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wd[7;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdq[7;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqw[7;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd[7;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+[8;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+w[8;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wq[8;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqd[8;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdd[8;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw[8;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+[9;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+q[9;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qw[9;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd[9;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+[10;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+q[10;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qw[10;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd[10;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+[11;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+q[11;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qw[11;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd[11;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+[12;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+q[12;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qw[12;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd[12;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+[13;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+q[13;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw[13;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+[14;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+d[14;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+dq[14;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+dq
+[15;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+dq
+d[15;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+dq
+dq[15;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+dq
+dqw[15;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+dq
+dqw
+[16;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+dq
+dqw[15;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+dq
+dq[15;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+dq
+d[15;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+dq
+[15;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+dq[14;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+d[14;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw
+[14;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+qw[13;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+q[13;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd
+[13;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qwd[12;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+qw[12;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+q[12;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd
+[12;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qwd[11;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+qw[11;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+q[11;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd
+[11;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qwd[10;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+qw[10;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+q[10;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd
+[10;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qwd[9;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+qw[9;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+q[9;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw
+[9;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqddw[8;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdd[8;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqd[8;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wq[8;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqd[8;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdq[8;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqw[8;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd[8;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+[9;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+q[9;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qd[9;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw[9;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+[10;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+d[10;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dw[10;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq[10;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+[11;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+d[11;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dq[11;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd[11;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+[12;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+w[12;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wd[12;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq[12;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+[13;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+d[13;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dq[13;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw[13;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+[14;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+q[14;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qw[14;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd[14;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+[15;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w[15;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+[16;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+w[16;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq[16;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+[17;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+q[17;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd[17;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+[18;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+q[18;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq[18;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+[19;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+d[19;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dw[19;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwq[19;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd[19;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+[20;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+w[20;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wq[20;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqw[20;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd[20;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+[21;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+q[21;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw[21;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+[22;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+d[22;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+dd[22;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq[22;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+q[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qw[23;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd[23;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+q[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qw[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd[24;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+q[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qw[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwertty
+qwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd[24;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+q[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qw[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwdqwd
+qwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd[24;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+q[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qd[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwd
+qwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw[24;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+q[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qd[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdw[24;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwd
+qwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd[24;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+q[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qw[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwd[24;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwdq
+wdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq[24;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+w[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wd[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdq[24;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwdqwd
+wqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw[24;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqwd
+qdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+q[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qd[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqdw
+dwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw[24;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hdwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hdwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+d[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hdwq
+dqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hdqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hdqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+q[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hdqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qd[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hdqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdw[24;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hdqd
+wdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd[24;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+w[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wq[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wqd[24;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwdq
+dqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wqdq[24;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hdqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wqdq
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hdqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wqdq
+d[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hdqw
+qwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wqdq
+dw[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wqdq
+dw
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wqdq
+dw
+q[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wqdq
+dw
+qd[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwd
+w
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wqdq
+dw
+qdw[24;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hw
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wqdq
+dw
+qdw
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hw
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wqdq
+dw
+qdw
+d[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hw
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wqdq
+dw
+qdw
+dw[24;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hw
+wq
+qd
+qq
+dwqd
+wqwd
+qw
+ddq
+qwd
+qwd
+qwd
+qwd
+qdw
+qdwd
+qwdq
+wdqw
+d
+qdw
+dq
+qdwd
+wqdq
+dw
+qdw
+dw[24;3H
+windowSize.ws_row: 25
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+windowSize.ws_row: 25
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hw[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwq[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqd[2;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdq[2;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw[2;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+[3;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+q[3;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qw[3;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd[3;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+[4;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+d[4;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dq[4;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqw[4;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwd[4;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdq[4;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw[4;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+[5;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d[5;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+[6;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+d[6;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dq[6;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqw[6;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwd[6;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdq[6;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqw[6;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd[6;8H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+[7;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+q[7;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qw[7;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwd[7;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwdd[7;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddq[7;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqw[7;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd[7;8H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+[8;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+q[8;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qw[8;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwd[8;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdq[8;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqw[8;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwd[8;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdq[8;8H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqd[8;9H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw[8;10H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+[9;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+d[9;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dq[9;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqw[9;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwd[9;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdq[9;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqd[9;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqdd[9;8H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq[9;9H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+[10;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+d[10;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dq[10;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqd[10;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdq[10;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqd[10;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw[10;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+[11;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+d[11;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dq[11;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqw[11;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwd[11;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdw[11;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdww[11;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwq[11;8H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd[11;9H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+[12;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+d[12;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dq[12;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqw[12;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwd[12;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdq[12;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw[12;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+[13;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w[13;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+[14;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w[14;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+[15;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w[15;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+[16;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w[16;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+[17;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w[17;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+[18;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w[18;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w
+[19;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w
+w[19;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w
+w
+[20;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w
+w
+w[20;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w
+w
+w
+[21;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w
+w
+w
+w[21;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w
+w
+w
+w
+[22;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[22;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwqdqw
+qwd
+dqwdqw
+d
+dqwdqwd
+qwddqwd
+qwdqwdqdw
+dqwdqddq
+dqdqdw
+dqwdwwqd
+dqwdqw
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[24;2H
+windowSize.ws_row: 25
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+
+[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+
+[2;3H
+windowSize.ws_row: 25
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hq[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+[3;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w[3;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+[4;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w[4;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+[5;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w[5;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+[6;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w[6;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+[7;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+w[7;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww[7;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+[8;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w[8;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+[9;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w[9;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+[10;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w[10;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+[11;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w[11;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+[12;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w[12;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+[13;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w[13;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+[14;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w[14;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+[15;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w[15;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+[16;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w[16;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+[17;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[17;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+[18;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[18;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+[19;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[19;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+[20;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[20;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+[21;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[21;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+[22;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[22;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+[24;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[24;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[24;2H
+windowSize.ws_row: 25
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[25;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+windowSize.ws_row: 24
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[1;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hq[1;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw[1;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwe[1;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwer[1;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwert[1;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty[1;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+[1;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+w[1;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wd[1;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdq[1;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw[1;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+[1;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+q[1;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qw[1;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwd[1;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdq[1;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqw[1;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd[1;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+[1;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+q[1;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qw[1;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwd[1;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdq[1;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd[1;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+[1;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+q[1;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+qw[1;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+qwd[1;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+qwdq[1;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+qwdqd[1;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+qwdqdw[1;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+qwdqdwd[1;8H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+qwdqdwd
+[1;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+qwdqdwd
+q[1;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+qwdqdwd
+qw[1;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+qwdqdwd
+qwd[1;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+qwdqdwd
+qwdq[1;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+qwdqdwd
+qwdqd[1;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+wdqw
+qwdqwd
+qwdqd
+qwdqdwd
+qwdqd[1;6H
+windowSize.ws_row: 24
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[1;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hm[1;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hmv[1;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hmvn[1;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hmvn [1;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hmvn [1;5H
+windowSize.ws_row: 24
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[1;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hq[1;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw[1;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwe[1;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwer[1;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwert[1;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty[1;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty[1;7H
+windowSize.ws_row: 24
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1H[1;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1Hq[1;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1Hqw[1;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1Hq[1;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1H[1;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1H
+[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1H
+q[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1H
+qw[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1H
+qwe[2;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1H
+qwer[2;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1H
+qwert[2;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1H
+qwerty[2;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1Hqwerty
+[3;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1Hqwerty
+[3;1H
+windowSize.ws_row: 24
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1H[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1Hq[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1Hq[2;3H
+windowSize.ws_row: 24
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1H[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1H[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;1H[2;2H
+windowSize.ws_row: 24
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;0H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;0Hq[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[1;0Hq[2;2H
+windowSize.ws_row: 24
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;2Hq[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;3Hqw[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;3Hqw[2;3H
+windowSize.ws_row: 24
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hq[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwe[2;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwer[2;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwert[2;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty[2;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+[3;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+z[3;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+zw[3;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+zwe[3;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+zwer[3;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+zwert[3;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+zwerty[3;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+zwertyt[3;8H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hzwertyt
+[4;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hzwertyt
+[4;1H
+windowSize.ws_row: 24
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hw[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hww[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwww[2;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwwww[2;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwwww
+[3;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwwww
+q[3;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwwww
+qq[3;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwwww
+qqq[3;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwwww
+qqqq[3;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+[4;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+[4;1H
+windowSize.ws_row: 24
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hw[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hww[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwww[2;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwwww[2;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwwww
+[3;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwwww
+q[3;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwwww
+qq[3;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwwww
+qqq[3;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hwwww
+qqq[3;4H
+windowSize.ws_row: 24
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hq[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwe[2;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwer[2;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwert[2;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty[2;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+[3;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+q[3;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qq[3;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqq[3;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq[3;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+[4;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+q[4;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qq[4;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq[4;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+[5;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+q[5;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qq[5;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq[5;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+[6;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q[6;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+[7;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q[7;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+[8;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q[8;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+[9;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q[9;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+[10;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+q[10;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq[10;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+[11;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q[11;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+[12;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q[12;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+[13;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+q[13;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq[13;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+[14;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q[14;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+[15;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q[15;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+[16;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+q[16;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq[16;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+[17;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q[17;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+[18;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q[18;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+[19;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q[19;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+[20;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q[20;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+[21;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q[21;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+[22;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q[22;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q
+q[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q
+q
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q
+q
+q[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q
+q
+q
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q
+q
+q
+q[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q
+q
+q
+q
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q
+q
+q
+q[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q
+q
+q
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q
+q
+q[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q
+q
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q
+q[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+q[22;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q
+[22;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+q[21;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q
+[21;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+q[20;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q
+[20;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+q[19;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q
+[19;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+q[18;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q
+[18;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+q[17;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq
+[17;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+qq[16;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+q[16;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q
+[16;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+q[15;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q
+[15;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+q[14;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq
+[14;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+qq[13;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+q[13;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q
+[13;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+q[12;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q
+[12;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+q[11;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq
+[11;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+qq[10;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+q[10;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q
+[10;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+q[9;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q
+[9;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+q[8;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q
+[8;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+q[7;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q
+[7;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+q[6;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq
+[6;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qqq[5;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+qq[5;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+q[5;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq
+[5;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qqq[4;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+qq[4;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+q[4;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq
+[4;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqqq[3;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qqq[3;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+qq[3;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+q[3;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty
+[3;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwerty[2;7H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwert[2;6H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwer[2;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqwe[2;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqw[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hq[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hq[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqq[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq[2;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq[2;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+[3;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+q[3;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qq[3;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqq[3;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq[3;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+[4;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+q[4;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qq[4;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqq[4;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq[4;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+[5;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+q[5;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qq[5;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq[5;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+[6;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+q[6;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qq[6;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq[6;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+[7;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+[8;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+[9;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w[9;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+[10;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+[11;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w[11;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+[12;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w[12;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+[13;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w[13;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+[14;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w[14;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+[15;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w[15;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+[16;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w[16;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+[17;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+w[17;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww[17;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+[18;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w[18;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+[19;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w[19;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+[20;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w[20;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+[21;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w[21;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+[22;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w[22;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww[23;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hw
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hw
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hw
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hw
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+ww[23;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+w[23;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w
+[23;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+w[22;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w
+[22;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+w[21;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w
+[21;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+w[20;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w
+[20;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+w[19;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w
+[19;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+w[18;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww
+[18;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+ww[17;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+w[17;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w
+[17;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+w[16;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w
+[16;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+w[15;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w
+[15;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+w[14;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w
+[14;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+w[13;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w
+[13;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+w[12;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w
+[12;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+w[11;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+
+[11;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w
+[10;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+w[9;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+
+[9;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+
+[8;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq
+[7;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qqq[6;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+qq[6;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+q[6;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq
+[6;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qqq[5;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+qq[5;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+q[5;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq
+[5;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqqq[4;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qqq[4;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+qq[4;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+q[4;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq
+[4;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqqq[3;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qqq[3;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+qq[3;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+q[3;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq
+[3;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqqq[2;5H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqqq[2;4H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hqq[2;3H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1Hq[2;2H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
+[H[2J[[1;1H[46m[97mWritty Editor V1[K[0m[24;1H[104m[97m	Type your text below. Press Ctrl+Q to quit.[0m[2;1H[2;1H
